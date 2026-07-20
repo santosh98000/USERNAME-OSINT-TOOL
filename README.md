@@ -31,8 +31,8 @@ Make sure Python 3 is installed. Then follow these steps:
 ### 🔹 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/username-osint-finder.git
-cd username-osint-finder
+git clone https://github.com/santosh98000/USERNAME-OSINT-TOOL.git
+cd USERNAME-OSINT-TOOL
 pip install requests pyfiglet termcolor
 python information.py
 
@@ -51,13 +51,11 @@ If you liked this tool and want me to keep making more ethical tools like this:
 
 - [☕ Donate on Santosh Chhetri](https://buymeacoffee.com/santoshchhetri)
 
-- [💻 Join on Patreon](https://patreon.com/santoshchhetri)
-
 - [💸 Donate with PayPal](https://paypal.me/santoshchhetri)
 
 Your support will motivate me to make more legal ethical hacking tools!
 <br><br>
 <p align="center">
   <b>Multi-Social Platform Username Scanner</b><br>
-  <i>By <a href="https://github.com/yourusername">Santosh Chhetri</a> | Channel: Master in White Devil</i>
+  <i>By <a href="https://github.com/santosh98000">Santosh Chhetri</a> | Channel: Master in White Devil</i>
 </p>
